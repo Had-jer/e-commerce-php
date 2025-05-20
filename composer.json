@@ -1,0 +1,15 @@
+{
+    "name": "admin/e-commerce-php",
+    "autoload": {
+        "psr-4": {
+            "Admin\\ECommercePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Had--jer",
+            "email": "abdellihadjer2004@gmail.com"
+        }
+    ],
+    "require": {}
+}
